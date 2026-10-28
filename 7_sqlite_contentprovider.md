@@ -6,11 +6,9 @@ https://www.w3schools.com/sql/<br>
 https://www.codecademy.com/learn/learn-sql<br> 
 2) SQLite:<br> 
 https://www.sqlite.org/datatype3.html<br> 
-http://developer.alexanderklimov.ru/android/sqlite/android-sqlite.php<br> 
 https://dev.mysql.com/doc/employee/en/sakila-structure.html<br> 
 http://www.vogella.com/tutorials/AndroidSQLite/article.html<br> 
 3) Cursor:<br> 
-http://developer.alexanderklimov.ru/android/theory/cursor.php<br> 
 4) Content Provider:<br> 
 https://developer.android.com/reference/android/content/ContentProvider<br> 
 
@@ -32,11 +30,9 @@ https://www.w3schools.com/sql/<br>
 https://www.codecademy.com/learn/learn-sql<br> 
 2) SQLite:<br> 
 https://www.sqlite.org/datatype3.html<br> 
-http://developer.alexanderklimov.ru/android/sqlite/android-sqlite.php<br> 
 https://dev.mysql.com/doc/employee/en/sakila-structure.html<br> 
 http://www.vogella.com/tutorials/AndroidSQLite/article.html<br> 
 3) Курсор (Cursor):<br> 
-http://developer.alexanderklimov.ru/android/theory/cursor.php<br> 
 4) Постачальник вмісту (Content Provider):<br> 
 https://developer.android.com/reference/android/content/ContentProvider<br> 
 

@@ -17,7 +17,6 @@ https://uk.wikibooks.org/wiki/Освоюємо_Java/Об%27єкти_і_клас�
 4) Java Collections:
 https://docs.oracle.com/javase/tutorial/collections/index.html<br> 
 https://uk.wikibooks.org/wiki/Освоюємо_Java/Колекції<br> 
-https://habrahabr.ru/post/237043/<br> 
 
 
 ## Example Covered in Class
@@ -56,7 +55,6 @@ https://uk.wikibooks.org/wiki/Освоюємо_Java/Об%27єкти_і_клас�
 4) Колекції Java:
 https://docs.oracle.com/javase/tutorial/collections/index.html<br> 
 https://uk.wikibooks.org/wiki/Освоюємо_Java/Колекції<br> 
-https://habrahabr.ru/post/237043/<br> 
 
 
 ## Приклад, який розглядаємо на занятті

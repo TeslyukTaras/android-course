@@ -9,12 +9,9 @@ https://uk.wikibooks.org/wiki/Програмування_під_Android/Стру
 
 2) Activity lifecycle:<br> 
 https://www.tutorialspoint.com/android/android_acitivities.htm<br> 
-http://developer.alexanderklimov.ru/android/theory/activity-theory.php<br> 
-http://developer.alexanderklimov.ru/android/theory/lifecycle.php<br> 
 
 3) Dimension units:<br> 
 http://stackoverflow.com/questions/2025282/what-is-the-difference-between-px-dp-dip-and-sp-on-android<br> 
-http://startandroid.ru/ru/11-pamjatka/40-edinitsy-izmerenija-chem-otlichaetsja-dp-dip-ot-px-screen-density.html<br> 
 
 4) Android UI:<br> 
 http://www.itcsolutions.eu/2011/08/27/android-tutorial-4-procedural-vs-declarative-design-of-user-interfaces/<br> 
@@ -50,12 +47,9 @@ https://uk.wikibooks.org/wiki/Програмування_під_Android/Стру
 
 2) Життєвий цикл Activity:<br> 
 https://www.tutorialspoint.com/android/android_acitivities.htm<br> 
-http://developer.alexanderklimov.ru/android/theory/activity-theory.php<br> 
-http://developer.alexanderklimov.ru/android/theory/lifecycle.php<br> 
 
 3) Одиниці вимірювання розмірів:<br> 
 http://stackoverflow.com/questions/2025282/what-is-the-difference-between-px-dp-dip-and-sp-on-android<br> 
-http://startandroid.ru/ru/11-pamjatka/40-edinitsy-izmerenija-chem-otlichaetsja-dp-dip-ot-px-screen-density.html<br> 
 
 4) Інтерфейс користувача Android:<br> 
 http://www.itcsolutions.eu/2011/08/27/android-tutorial-4-procedural-vs-declarative-design-of-user-interfaces/<br> 

@@ -12,13 +12,11 @@ Try to complete part of the assignment at home. If you cannot, we will help you 
 3) Implement additional logic to save the calculator’s state.<br> 
 
 ## Sources of Inspiration:
-http://startandroid.ru/ru/uroki/vse-uroki-spiskom/54-urok-19-pishem-prostoj-kalkuljator.html<br>
 https://www.androidauthority.com/build-a-calculator-app-721910/<br>
 http://www.javahelps.com/2015/03/android-simple-calculator.html<br> 
 
 ## Saving App State:
 https://www.intertech.com/Blog/saving-and-retrieving-android-instance-state-part-1/<br> 
-http://startandroid.ru/ru/uroki/vse-uroki-spiskom/133-urok-70-onsaveinstancestate-sohranenie-dannyh-activity-pri-povorote-ekrana.html
 <br>
 
 ---
@@ -37,11 +35,9 @@ http://startandroid.ru/ru/uroki/vse-uroki-spiskom/133-urok-70-onsaveinstancestat
 3) Реалізувати додаткову логіку для збереження стану калькулятора.<br> 
 
 ## Натхнення можна черпати з:
-http://startandroid.ru/ru/uroki/vse-uroki-spiskom/54-urok-19-pishem-prostoj-kalkuljator.html<br>
 https://www.androidauthority.com/build-a-calculator-app-721910/<br>
 http://www.javahelps.com/2015/03/android-simple-calculator.html<br> 
 
 ## Збереження стану аплікації:
 https://www.intertech.com/Blog/saving-and-retrieving-android-instance-state-part-1/<br> 
-http://startandroid.ru/ru/uroki/vse-uroki-spiskom/133-urok-70-onsaveinstancestate-sohranenie-dannyh-activity-pri-povorote-ekrana.html
 <br>

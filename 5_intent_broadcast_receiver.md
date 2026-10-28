@@ -6,7 +6,6 @@ https://developer.android.com/reference/android/content/Intent<br>
 https://developer.android.com/guide/components/intents-filters.html<br>
 2) Start Activity:<br>
 https://developer.android.com/training/basics/firstapp/starting-activity.html<br>
-http://startandroid.ru/ru/uroki/vse-uroki-spiskom/68-urok-29-vyzyvaem-activity-i-poluchaem-rezultat-metod-startactivityforresult.html<br>
 3) Android Broadcast:<br>
 https://developer.android.com/guide/components/broadcasts<br>
 http://www.vogella.com/tutorials/AndroidBroadcastReceiver/article.html<br>
@@ -30,7 +29,6 @@ https://developer.android.com/reference/android/content/Intent<br>
 https://developer.android.com/guide/components/intents-filters.html<br>
 2) Запуск Activity:<br>
 https://developer.android.com/training/basics/firstapp/starting-activity.html<br>
-http://startandroid.ru/ru/uroki/vse-uroki-spiskom/68-urok-29-vyzyvaem-activity-i-poluchaem-rezultat-metod-startactivityforresult.html<br>
 3) Широкомовні повідомлення Android:<br>
 https://developer.android.com/guide/components/broadcasts<br>
 http://www.vogella.com/tutorials/AndroidBroadcastReceiver/article.html<br>

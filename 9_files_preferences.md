@@ -14,7 +14,6 @@ https://www.tutorialspoint.com/android/android_shared_preferences.htm<br>
 5) Android Preferences screen<br> 
 https://developer.android.com/reference/android/preference/PreferenceActivity.html<br> 
 https://developer.android.com/reference/android/preference/PreferenceFragment.html<br> 
-http://startandroid.ru/ru/uroki/vse-uroki-spiskom/181-urok-111-android-3-fragments-preferencefragment-nastrojki-headers.html<br> 
 
 
 ## Example Covered in Class
@@ -41,7 +40,6 @@ https://www.tutorialspoint.com/android/android_shared_preferences.htm<br>
 5) Екран налаштувань Android<br> 
 https://developer.android.com/reference/android/preference/PreferenceActivity.html<br> 
 https://developer.android.com/reference/android/preference/PreferenceFragment.html<br> 
-http://startandroid.ru/ru/uroki/vse-uroki-spiskom/181-urok-111-android-3-fragments-preferencefragment-nastrojki-headers.html<br> 
 
 
 ## Приклад, який розглядаємо на занятті
